@@ -1,5 +1,7 @@
 source 'http://rubygems.org'
 
+ruby '2.2.3'
+
 # Sinatra
 gem 'sinatra', require: 'sinatra/base'
 
@@ -17,4 +19,8 @@ gem 'haml'
 group :development do
   gem 'thin'
   gem 'shotgun'
+end
+
+group :production do
+  gem 'thin'
 end
