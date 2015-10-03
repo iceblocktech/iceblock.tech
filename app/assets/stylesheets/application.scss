@@ -1,0 +1,11 @@
+$iceBlockBlue: #4f6e9c;
+
+@font-face {
+  font-family: Aaargh;
+  src: url('/assets/fonts/Aaargh.tff');
+}
+
+body {
+  background-color: $iceBlockBlue;
+  font-family: Aaargh, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
