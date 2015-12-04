@@ -18,7 +18,7 @@ body {
 
 body {
   &:before {
-    background: center url('/assets/logo.svg') no-repeat;
+    background: center image-url('logo.svg') no-repeat;
     background-size: 40rem 40rem;
     content: "";
     position: absolute;
