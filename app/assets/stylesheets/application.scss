@@ -1,3 +1,5 @@
+//= require animate
+
 $iceBlockBlue: #4f6e9c;
 
 @font-face {
@@ -17,41 +19,29 @@ body {
 }
 
 body {
-  &:before {
-    background: center image-url('logo.svg') no-repeat;
-    background-size: 40rem 40rem;
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -20rem;
-    margin-left: -20rem;
-    width: 40rem;
-    height: 40rem;
-  }
-
-  background-color: $iceBlockBlue;
   font-size: 1.5em;
   font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  letter-spacing: 0.1rem;
+  h1 {
+    font-weight: 100;
+    font-size: 7.2rem;
+    letter-spacing: 0.1rem;
+    color: $iceBlockBlue;
+  }
 
   .container {
-    width: 96rem;
-    margin: 0 auto;
-    padding: 0 20px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    a {
+      display: block;
+      min-height: 40rem;
+      img {
+        width: 40rem;
+        fill: white;
+      }
+    }
   }
 
-  #brand {
-    text-align: center;
-    color: white;
-    font-size: 4.8rem;
-    text-transform: uppercase;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -20rem;
-    margin-left: -20rem;
-    width: 40rem;
-    height: 40rem;
-  }
 }

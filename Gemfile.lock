@@ -2,6 +2,9 @@ GEM
   remote: http://rubygems.org/
   remote: https://rails-assets.org/
   specs:
+    autoprefixer-rails (6.1.2)
+      execjs
+      json
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -56,6 +59,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  autoprefixer-rails
   haml
   sass
   shotgun

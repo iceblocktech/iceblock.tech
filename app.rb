@@ -1,11 +1,11 @@
 ENV['RACK_ENV'] ||= 'development'
 
 require 'bundler/setup'
-
 Bundler.require(:default, ENV['RACK_ENV'])
 
-class App < Sinatra::Application
+require "autoprefixer-rails"
 
+class App < Sinatra::Application
   configure do
     set :assets_precompile, %w(application.js application.css *.png *.jpg *.svg *.eot *.ttf *.woff *.ico *.svg)
     set :assets_css_compressor, :sass
@@ -22,6 +22,8 @@ class App < Sinatra::Application
 
     set :views, Proc.new { File.join(root, "app/views") }
     set :haml, layout_options: {views: 'app/views/layouts'}
+
+    AutoprefixerRails.install(sprockets)
 
   end
 
