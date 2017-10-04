@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-ruby '2.2.3'
+ruby '2.4.2'
 
 # Sinatra
 gem 'sinatra', require: 'sinatra/base'
