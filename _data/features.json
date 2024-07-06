@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Vendor Consultation",
+    "description": "The amount of billing tools out there can be daunting. We can help you make the best decision.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Architecture and Design",
+    "description": "Designing a scalable billing system can be tough. We can review your designs and identify any gaps.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Billing Analytics",
+    "description": "We offer consultation on your data pipeline so you can get the most out of your billing data.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

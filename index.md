@@ -1,8 +1,8 @@
 ---
 title: Ice Block Tech
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-# intro_image: "images/illustrations/pointing.svg"
+description: We are small consulting shop that help companies with billing systems. Our focus is on vendor consultation, engineering guidance and data analytics strategies.
+intro_image: "images/illustrations/servers.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 show_call_box: false
@@ -10,4 +10,4 @@ show_call_box: false
 
 # Billing is hard. We make it easy.
 
-Through design, development and data engineering, we build billing systems so you can build products.
+Through design, development and data engineering, we help you build billing systems so you can build products.
