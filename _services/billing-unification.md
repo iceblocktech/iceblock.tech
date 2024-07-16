@@ -1,14 +1,12 @@
 ---
-title: "Mergers"
-date: 2019-02-28T15:15:34+10:00
-weight: 3
+title: "Billing Unification"
+date: 2018-12-28T15:14:39+10:00
+weight: 4
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+When working multiple billing systems, it can be hard to rationalize all the touch points. We can help guide you on unifying the experience both at the vendor level and the data analytics level.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/illustrations/unify.svg)
 
 # Objectives
 

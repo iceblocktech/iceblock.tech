@@ -1,15 +1,12 @@
 ---
-title: "Tax Preperation"
-date: 2019-04-18T12:33:46+10:00
-weight: 6
+title: "Billing Analytics"
+date: 2019-02-28T15:15:34+10:00
+weight: 3
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+We offer consultation on your data pipeline so you can get the most out of your billing data.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/illustrations/data.svg)
 
 # Objectives
 

@@ -15,7 +15,7 @@ home:
 
 collections:
   services:
-    output: false
+    output: true
     sort_by: weight
   team:
     output: true

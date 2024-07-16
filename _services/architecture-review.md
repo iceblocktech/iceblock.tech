@@ -1,15 +1,12 @@
 ---
-title: "Insurance"
-date: 2019-05-18T12:33:46+10:00
-weight: 7
+title: "Architecture Review"
+date: 2019-01-28T15:15:26+10:00
+weight: 2
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Designing a scalable billing system can be tough. We can review your designs and identify any gaps.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/illustrations/architecture.svg)
 
 # Objectives
 
