@@ -1,6 +1,7 @@
 ---
-title: "Bryan Mikaelian"
-date: 2018-11-19T10:47:58+10:00
+title: "Bryan Mikaelian - Ice Block Tech"
+headline: "Bryan Mikaelian"
+date: 2024-07-17T00:00:00+00:00
 image: "images/team/bryan-mikaelian.jpg"
 jobtitle: "Founder / Billing Engineer"
 linkedinurl: "https://www.linkedin.com/in/bryanmikaelian"

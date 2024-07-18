@@ -1,7 +1,7 @@
 ---
 title: "Billing Unification"
-date: 2018-12-28T15:14:39+10:00
-weight: 6
+date: 2024-07-17T00:00:00+00:00
+weight: 5
 ---
 
 When merging billing systems, it can be hard to rationalize all the touch points.
