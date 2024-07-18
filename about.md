@@ -1,5 +1,6 @@
 ---
-title: About
+title: About Our Consulting Team - Ice Block Tech
+headline: About Our Consulting Team
 layout: page
 description: About
 bodyClass: page-about
