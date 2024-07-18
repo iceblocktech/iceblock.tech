@@ -1,12 +1,14 @@
 ---
-title: "Billing Analytics"
-date: 2019-02-28T15:15:34+10:00
-weight: 4
+title: "Implementation"
+date: 2018-12-28T15:14:39+10:00
+weight: 7
 ---
 
-We offer consultation on your data pipeline so you can get the most out of your billing data.
+In some cases, we are happy to help you implement your billing system from scratch.
 
-![Accounting Services](/images/illustrations/data.svg)
+_Please note, given our team size and capacity, this service is only available a select few and depends on our currency workload. We hope to open up this service more as our agency grows._
+
+![Accounting Services](/images/illustrations/implementation.svg)
 
 # Objectives
 

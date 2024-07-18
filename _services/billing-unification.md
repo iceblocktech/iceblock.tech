@@ -1,10 +1,12 @@
 ---
 title: "Billing Unification"
 date: 2018-12-28T15:14:39+10:00
-weight: 4
+weight: 6
 ---
 
-When working multiple billing systems, it can be hard to rationalize all the touch points. We can help guide you on unifying the experience both at the vendor level and the data analytics level.
+When merging billing systems, it can be hard to rationalize all the touch points.
+
+We can provide guidance to help with the process both at the vendor level and the data analytics level.
 
 ![Accounting Services](/images/illustrations/unify.svg)
 

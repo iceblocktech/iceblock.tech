@@ -1,12 +1,14 @@
 ---
-title: "Billing Analytics"
-date: 2019-02-28T15:15:34+10:00
-weight: 4
+title: "Usage-based billing"
+date: 2018-12-28T15:14:39+10:00
+weight: 3
 ---
 
-We offer consultation on your data pipeline so you can get the most out of your billing data.
+If your product needs to start tracking usage for arrears-based billing, we can help you design one.
 
-![Accounting Services](/images/illustrations/data.svg)
+Already have one but just need some tips? We got you covered too.
+
+![Accounting Services](/images/illustrations/usage.svg)
 
 # Objectives
 

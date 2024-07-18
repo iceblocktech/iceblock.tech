@@ -10,4 +10,4 @@ show_call_box: false
 
 # Billing is hard. We make it easy.
 
-Through design, development and data engineering, we help you build billing systems so you can build products.
+Ice Block Tech is a small consulting shop that loves helping customers solve billing problems. Through design, development and data engineering, we help you scale your billing so you can build products.

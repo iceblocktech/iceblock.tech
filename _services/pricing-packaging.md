@@ -1,12 +1,12 @@
 ---
-title: "Billing Analytics"
-date: 2019-02-28T15:15:34+10:00
-weight: 4
+title: "Pricing and Packaging"
+date: 2018-12-28T15:14:39+10:00
+weight: 6
 ---
 
-We offer consultation on your data pipeline so you can get the most out of your billing data.
+If you need new pricing for your product, we can design a strategy for you.
 
-![Accounting Services](/images/illustrations/data.svg)
+![Accounting Services](/images/illustrations/pricing.svg)
 
 # Objectives
 

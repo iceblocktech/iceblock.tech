@@ -1,29 +1,29 @@
 [
   {
-    "title": "Vendor Consultation",
-    "description": "The amount of billing tools out there can be daunting. We can help you make the best decision.",
+    "title": "You aren't just a number.",
+    "description": "We only work with a handful of clients at any given time. You'll receive our full attention.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/clients.svg",
+      "width": 140,
+      "height": 140
     }
   },
   {
-    "title": "Architecture Review",
-    "description": "Designing a scalable billing system can be tough. We can review your designs and identify any gaps.",
+    "title": "Any Team. Any Size.",
+    "description": "No matter how big or small your team, we don't discriminate. We just want to help.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/team.svg",
+      "width": 140,
+      "height": 140
     }
   },
   {
-    "title": "Billing Analytics",
-    "description": "We offer consultation on your data pipeline so you can get the most out of your billing data.",
+    "title": "No judgements.",
+    "description": "Billing is a tough problem space and can be not-so pretty at times. No code or idea is too scary.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/judgements.svg",
+      "width": 140,
+      "height": 140
     }
   }
 ]
