@@ -5,6 +5,11 @@
     "image": "images/social/github.svg"
   },
   {
+    "name": "Twitter",
+    "link": "https://twitter.com/iceblock_tech",
+    "image": "images/social/twitter.svg"
+  },
+  {
     "name": "Email",
     "link": "mailto:contact@iceblock.tech",
     "image": "images/social/email.svg"
