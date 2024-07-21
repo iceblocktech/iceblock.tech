@@ -16,6 +16,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
-  - name: "Newsletter"
-    url: "https://invoice.iceblock.tech"
+  - name: "Subscribe to Our Newsletter"
+    url: "https://theinvoice.iceblock.tech"
     weight: 3
